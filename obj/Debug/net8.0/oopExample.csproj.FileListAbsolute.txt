@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\bin\Debug\net8.0\oopExample.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\bin\Debug\net8.0\oopExample.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\bin\Debug\net8.0\oopExample.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\bin\Debug\net8.0\oopExample.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\bin\Debug\net8.0\oopExample.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\refint\oopExample.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\oopExample.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\OOP\oopExample\obj\Debug\net8.0\ref\oopExample.dll
